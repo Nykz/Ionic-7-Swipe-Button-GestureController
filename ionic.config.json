@@ -1,0 +1,7 @@
+{
+  "name": "swipe-button-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
